@@ -20,6 +20,6 @@ else
     {   
     alert("Usted es mayor de edad");
     }
-
+ 
 
 }//FIN DE LA FUNCIÓN
