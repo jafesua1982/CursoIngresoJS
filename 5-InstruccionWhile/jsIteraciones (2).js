@@ -1,6 +1,6 @@
 function mostrar() {
 	var contador;
-	contador = 11
+	contador = 0
 	while (contador<10) {
 		contador = contador - 1;
 		alert(contador);
