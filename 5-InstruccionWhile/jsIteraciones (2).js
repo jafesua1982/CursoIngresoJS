@@ -1,9 +1,11 @@
 function mostrar() {
-	var contador;
-	contador = 0
-	while (contador<10) {
-		contador = contador - 1;
-		alert(contador);
+	var i;
+	i = 10
+	while(i >0){
+		
+		console.log(i);
+		
+		i = i - 1;
 	}
 
 
